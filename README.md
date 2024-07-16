@@ -3,6 +3,7 @@
   - Then, We used another Concept of ArrayAdapter.
   - another Concept is ArrayList.
   - another Concept is used is Intent.
+
 **Why Used**
   - Grid View is used to Create a Custom UI Component as per App requirment.
   - ArrayAdapter is used because of we are Custom layout in App. So, we have to used ArrayAdapter Concept.
