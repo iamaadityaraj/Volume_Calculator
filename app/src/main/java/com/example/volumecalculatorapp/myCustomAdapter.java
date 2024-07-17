@@ -23,7 +23,7 @@ public class myCustomAdapter extends ArrayAdapter<Shape> {
    private ArrayList<Shape>ShapeArrayList;
 
     // context provide acess to various services & resource that your app need to intreact with system
-    Context context;;
+    Context context;
 
 
     // constructor of myCustomAdapter
